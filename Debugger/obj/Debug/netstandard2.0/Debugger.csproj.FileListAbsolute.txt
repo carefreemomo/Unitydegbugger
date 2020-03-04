@@ -1,0 +1,11 @@
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\bin\Debug\netstandard2.0\Debugger.deps.json
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\bin\Debug\netstandard2.0\Debugger.dll
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\bin\Debug\netstandard2.0\Debugger.pdb
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\bin\Debug\netstandard2.0\UnityEngine.dll
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\obj\Debug\netstandard2.0\Debugger.csprojAssemblyReference.cache
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\obj\Debug\netstandard2.0\Debugger.csproj.CoreCompileInputs.cache
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\obj\Debug\netstandard2.0\Debugger.AssemblyInfoInputs.cache
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\obj\Debug\netstandard2.0\Debugger.AssemblyInfo.cs
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\obj\Debug\netstandard2.0\Debugger.csproj.CopyComplete
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\obj\Debug\netstandard2.0\Debugger.dll
+D:\Projects\AAOther\Program\Debugger\Debugger\Debugger\obj\Debug\netstandard2.0\Debugger.pdb
